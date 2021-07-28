@@ -1,3 +1,3 @@
 # clone-instagram-dio
-Exercício clone Instagram DIO
+## Exercício clone Instagram DIO
 
