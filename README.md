@@ -1,5 +1,5 @@
 # Clone Instagram 
-## Exercício para fixação HMTL e CSS
+## Instagram homepage copy exercise from Digital Innovation One Bootcamp
 
 Autor: João Pedro Oliviera  
 
